@@ -1,24 +1,24 @@
 Student_ID,Age,Gender,Class,Study_Hours_Per_Day,Attendance_Percentage,Parental_Education,Internet_Access,Extracurricular_Activities,Math_Score,Science_Score,English_Score,Previous_Year_Score,Final_Percentage,Performance_Level,Pass_Fail
 S0001,15,Male,12,1.0,65,Postgraduate,No,No,40,39,72,81,50.33,Average,Pass
-S0002,19,Female,9,1.6,58,Graduate,No,Yes,80,44,35,47,53.0,Average,Pass
-S0003,14,Female,12,3.6,64,High School,Yes,Yes,83,73,59,58,71.67,Good,Pass
-S0004,18,Female,9,5.5,68,Postgraduate,Yes,No,68,48,77,54,64.33,Average,Pass
+S0002,19,Female,9,,58,Graduate,No,Yes,80,44,35,47,53.0,Average,Pass
+S0003,14,Female,12,3.6,,High School,Yes,Yes,83,73,59,58,71.67,Good,Pass
+S0004,18,Female,9,5.5,68,Postgraduate,Yes,No,68,,77,54,64.33,Average,Pass
 S0005,14,Male,10,5.0,80,High School,Yes,No,41,46,36,68,41.0,Poor,Fail
 S0006,19,Male,12,5.2,82,High School,No,Yes,88,70,46,60,68.0,Good,Pass
 S0007,16,Male,12,0.8,78,High School,No,No,75,69,64,84,69.33,Good,Pass
 S0008,18,Female,11,2.0,81,Graduate,No,Yes,93,37,48,55,59.33,Average,Pass
-S0009,18,Female,11,3.5,61,Graduate,No,No,55,39,83,71,59.0,Average,Pass
-S0010,18,Male,10,5.7,97,High School,Yes,No,72,73,73,61,72.67,Good,Pass
-S0011,14,Female,9,3.6,88,Graduate,Yes,No,95,85,69,41,83.0,Excellent,Pass
+S0009,18,Female,11,3.5,61,Graduate,No,No,55,39,,71,59.0,Average,Pass
+S0010,18,Male,10,5.7,97,High School,Yes,No,,73,73,61,72.67,Good,Pass
+S0011,14,Female,9,3.6,88,Graduate,Yes,No,95,,69,41,83.0,Excellent,Pass
 S0012,18,Female,9,5.7,74,Postgraduate,Yes,No,54,38,59,81,50.33,Average,Pass
-S0013,19,Male,10,1.5,64,Postgraduate,Yes,Yes,35,95,37,85,55.67,Average,Pass
-S0014,17,Female,10,5.5,76,Postgraduate,No,Yes,79,82,100,71,87.0,Excellent,Pass
-S0015,15,Female,10,4.2,60,Postgraduate,No,Yes,55,57,80,72,64.0,Average,Pass
+S0013,19,Male,10,1.5,64,Postgraduate,Yes,Yes,35,95,,85,55.67,Average,Pass
+S0014,17,Female,10,5.5,76,Postgraduate,No,Yes,79,82,100,71,,Excellent,Pass
+S0015,15,Female,10,4.2,60,Postgraduate,No,Yes,55,,80,72,64.0,Average,Pass
 S0016,17,Male,12,5.0,67,Postgraduate,No,No,68,40,81,72,63.0,Average,Pass
 S0017,16,Male,10,4.0,66,Graduate,No,Yes,49,59,96,63,68.0,Good,Pass
-S0018,14,Female,9,5.0,89,High School,No,Yes,71,40,59,82,56.67,Average,Pass
-S0019,14,Female,12,1.9,100,Postgraduate,No,No,45,85,74,61,68.0,Good,Pass
-S0020,19,Male,11,3.6,66,High School,Yes,Yes,75,78,59,78,70.67,Good,Pass
+S0018,14,Female,9,5.0,89,High School,No,Yes,71,40,59,82,,Average,Pass
+S0019,14,Female,12,1.9,100,,No,No,45,85,74,61,68.0,Good,Pass
+S0020,19,Male,11,3.6,66,High School,Yes,Yes,75,,59,78,70.67,Good,Pass
 S0021,15,Female,10,4.7,65,High School,No,Yes,46,80,70,46,65.33,Average,Pass
 S0022,15,Male,12,2.8,83,Postgraduate,No,Yes,100,96,99,86,98.33,Excellent,Pass
 S0023,19,Female,12,5.3,72,Postgraduate,No,No,72,40,63,76,58.33,Average,Pass
